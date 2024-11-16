@@ -1,0 +1,12 @@
+﻿Name,Quantity,Component
+"P1",1,"5 , 5  Power Supply"
+"R1, R2, R3, R4, R5, R7, R9, R13",8,"1 kΩ Resistor"
+"U1",1," Arduino Uno R3"
+"U2",1,"MCP23008-based, 32 (0x20) LCD 16 x 2 (I2C)"
+"S1",1," Pushbutton"
+"K1, K2, K3, K4",4," Relay SPDT"
+"R6, R11",2,"1 GΩ Resistor"
+"U3",1," 741 Operational Amplifier"
+"R8",1,"1000 kΩ Resistor"
+"R10",1,"0.1 kΩ Resistor"
+"R12",1,"1 Ω Resistor"
